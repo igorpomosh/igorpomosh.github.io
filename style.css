@@ -1,0 +1,273 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Times New Roman, sans-serif;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.clearfix {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.first {
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.navbar > img {
+    margin-top: 70px;
+
+}
+
+nav {
+    float: right;
+    margin-top: -43px;
+}
+
+.menu {
+    display: block;
+    padding: 0;
+
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-left: 120px;
+}
+
+.menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #626262;
+    font-size: 14px;
+}
+
+.firstpost > img {
+    margin-top: 60px;
+}
+
+.title {
+    margin-top: 95px;
+}
+
+.title_first {
+    color: #c8c3b9;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.title > h1 {
+    font-size: 30px;
+    color: #929292;
+    margin-top: 32px;
+}
+
+.title > p {
+    font-size: 14px;
+    color: #626262;
+    margin-top: 41px;
+}
+
+.title_second {
+    color: #c8c3b9;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 80px;
+}
+
+.lifestyle {
+    margin-top: 140px;
+    height: 470px;
+}
+
+.postscript {
+    color: #c8c3b9;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 32px;
+}
+
+.first_lifestyle > h2 {
+    font-size: 30px;
+    color: #626262; 
+}
+
+.first_lifestyle > p {
+    font-size: 14px;
+    color: #626262;
+    width: 415px;
+}
+
+.first_lifestyle {
+    position: absolute;
+}
+
+.second_lifestyle {
+    float: right;
+}
+
+.second_lifestyle > h2 {
+    font-size: 30px;
+    color: #626262; 
+}
+
+.second_lifestyle > p {
+    font-size: 14px;
+    color: #626262;
+    width: 415px;
+}
+
+.photodiary {
+    margin-top: 135px;
+    height: 475px;
+}
+
+.first_diary {
+    position: absolute;
+}
+
+.first_diary > h3 {
+    font-size: 30px;
+    color: #626262; 
+}
+
+.first_diary > p {
+    font-size: 14px;
+    color: #626262;
+    width: 415px;
+}
+
+.second_diary {
+    float: right;
+}
+
+.second_diary > p {
+    font-size: 14px;
+    color: #626262;
+    width: 415px;
+}
+
+.second_diary > h3 {
+    font-size: 30px;
+    color: #626262; 
+}
+
+.singup {
+    background-color: #f0f0f0;
+    height: 288px;
+    margin-top: 125px;
+    padding-top: 75px; 
+    margin-bottom: 105px;
+}
+
+.container > h4 {
+    text-align: center;
+    font-size: 30px;
+    color: #626262; 
+}
+
+input {
+    width: 405px;
+    height: 40px;
+    border: 0;
+    background-color: #f0f0f0;
+    border-bottom: 1px #000 solid;
+    font-size: 14px;
+    color: #626262;
+}
+
+.selector {
+    height: 470px;
+}
+
+.leftpost {
+    position: absolute;
+}
+
+.leftpost > h5 {
+    font-size: 30px;
+    color: #626262; 
+}
+
+.leftpost > p {
+    font-size: 14px;
+    color: #626262;
+    width: 415px;
+}
+
+.rightpost {
+    float: right;
+}
+
+.rightpost > p {
+    font-size: 14px;
+    color: #626262;
+    width: 415px;
+}
+
+.rightpost > h5 {
+    font-size: 30px;
+    color: #626262; 
+}
+
+.loadmore {
+    margin-top: 170px;
+}
+
+.button {
+    width: 164px;
+    height: 60px;
+    font-size: 20px;
+    color: #707070;
+    text-decoration-line: none;
+    border: 1px #626262 solid; 
+    margin-bottom: 100px;
+}
+
+.last {
+    height: 100px;
+    width: 100%;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.terms > h6 {
+    font-size: 14px;
+    color: #3d3d3d;
+    display: inline-block;
+    margin-right: 22px;
+}
+
+.terms > p {
+    font-size: 14px;
+    color: #3d3d3d;
+    display: inline-block;
+}
+
+.follow {
+    float: right;
+}
+
+.follow > h6 {
+    font-size: 14px;
+    color: #3d3d3d;
+    display: inline-block;
+    margin-right: 22px;
+}
+
+.follow > a {
+    text-decoration: none;
+    margin-right: 20px;
+}
